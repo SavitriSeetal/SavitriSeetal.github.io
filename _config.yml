@@ -80,14 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mantripragada Savitri Seetal"
   avatar           : "MakePassportPhoto.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Masters Student @ University of Maryland Baltimore County. Exploring the field of Geospatial Technologies with wide interest in Developing Spatial Models , Cartography and Data Visualization and GIS "
+  location         : "Baltimore MD"
+  email            : "savitrm1@umbc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +93,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "SavitriSeetal.github.io"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/savitri-seetal-mantripragada-0b4059196"
+  linkedin         : "savitri-seetal-mantripragada-0b4059196"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/0709Sheetal?t=5Bc5wgJ58QNTy1k1jHKBzg&s=09"
+  twitter          : "0709Sheetal?t=5Bc5wgJ58QNTy1k1jHKBzg&s=09"
   vine             :
   weibo            :
   xing             :
