@@ -1,6 +1,6 @@
 ---
 title: "Indian Restaurant in Dallas"
-excerpt: "Indian Cusinie<br/><img src='/images/badassness500x300.png'>"
+excerpt: "Indian Cusinie<br/><img src='images/Image.png'>"
 collection: portfolio
 ---
 
