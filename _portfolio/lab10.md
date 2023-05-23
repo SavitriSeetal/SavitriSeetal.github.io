@@ -8,4 +8,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 This is an image.
 
-![Badassness scales](/images/scales.png "portfolio/Lab 10/index.html")
+<iframe src="https://SavitriSeetal.github.io-master/SavitriSeetal.github.io-master/_portfolio/Lab%2010/index.html"width="800"height="600" style="border.0"allowfullscreen></iframe>
