@@ -8,4 +8,4 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 This is an image.
 
-![Badassness scales](/images/scales.png "Badassness scales")
+![Badassness scales](/images/scales.png "portfolio/Lab 10/index.html")
