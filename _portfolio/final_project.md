@@ -16,8 +16,9 @@ This project aims to explore the land cover change matrix analysis in the Ganga-
 The land cover change matrix is an effective instrument utilized in land cover analysis to evaluate and measure the shifts between distinct land cover categories over a specific period. It offers a methodical and organized framework for comprehending the patterns of land cover change and the fundamental factors influencing these transformations.
 
 ## Data sources:
-Used data from the following sources: 
-
+The Data has been collected from the following sources:
+- Major River Basins: World Bank Data Catalog
+- Global Land Cover Data: European Space Agency
 ## Results:
  The Land Cover Change Matrix has been performed to analyze the percentage land cover change matrix of Ganga Brahmaputra River Basin for the year 1995 and 2015.
 
