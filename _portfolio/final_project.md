@@ -3,6 +3,7 @@ excerpt: "<img src='/images/1995_Ganga-Brahmaputra River Basin.png'> <br/>
           ------------------------------------------------------------------------------------------------
           <br/><img src='/images/2015_Ganga-Brahmaputra River Basin.png'>  <br/>
           ------------------------------------------------------------------------------------------------
+           <br/><img src='/images/Bar Graph.png'>  <br/>
 collection: portfolio
 ---
 
